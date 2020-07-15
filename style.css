@@ -30,7 +30,7 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: #43d6b9ff;
+  color: #58F609;
   text-align: center;
 }
 
@@ -39,14 +39,14 @@ h2 {
   letter-spacing: 3px;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: #43d6b9ff;
+  color: #58F609;
   text-align: center;
   line-height: 1.3em;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
-  color: #43d6b9ff;
+  color: #58F609;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ li.nav a {
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
   background-color: #0D38D3;
-  color: #43d6b9ff;
+  color: ##58F609;
 }
 
 /************************************************/
@@ -127,7 +127,7 @@ li.nav a:hover {
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
   padding: 2%;
-  color: #43d6b9ff;
+  color: #58F609;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
@@ -139,7 +139,7 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
-  background-color: #43d6b9ff; /* Add your own background color */
+  background-color: #58F609; /* Add your own background color */
   padding: 4%;
   margin: 3%;
   color: #0D38D3; /* Add the color of your font */
@@ -188,12 +188,12 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FToucan%20.jpg?v=1594827606286");
+  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fdeforestation.jpg?v=1594827595698");
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fdeforestation.jpg?v=1594827595698");
+  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fceac3ea6-titi.jpg?v=1594828972988");
 }
 .image-two {
   background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fceac3ea6-titi.jpg?v=1594828972988");
