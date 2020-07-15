@@ -64,7 +64,7 @@ ul.nav-bar {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #43d6b9ff;
+  background-color: #58F609;
   border-style: solid;
   border-color: #0D38D3;
 }
@@ -172,7 +172,8 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one  {
+.image-one,
+.image-two {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
