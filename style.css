@@ -172,7 +172,7 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one {
+.image-one  {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -192,11 +192,10 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fpuppy.jpg?v=1589146535603");
+  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fdeforestation.jpg?v=1594827595698");
 }
-
 .image-two {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fpuppy.jpg?v=1589146535603");
+  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fceac3ea6-titi.jpg?v=1594828972988");
 }
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
