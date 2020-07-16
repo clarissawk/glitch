@@ -209,6 +209,15 @@ li.nav a:hover {
   margin-right: 10px;
 }
 
+.links {
+ etter-spacing: 3px;
+  font-size: 25px;
+  font-family: "Roboto Mono", sans-serif;
+  color: #58F609;
+  text-align: center;
+  line-height: 1.3em;
+}
+
 /******************************************************/
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
