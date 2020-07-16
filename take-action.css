@@ -17,7 +17,11 @@
   line-height: 1.3em;
 }
 
-
+.attributions {
+  font-size: 12px;
+  text-align: right;
+  margin-right: 10px;
+}
 
 /******************************************************/
 /***************** ACTION ITEM LIST *******************/
