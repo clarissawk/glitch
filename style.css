@@ -158,7 +158,7 @@ li.nav a:hover {
 
 /*-----------TEXT SECTIONS-----------*/
 
-/* TODO (optional): Change the background color and/or text alignment */
+/* background color and/or text alignment */
 
 .text-section {
   background-color: #0D38D3;
@@ -169,11 +169,12 @@ li.nav a:hover {
 
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
 
-/* TODO: Add the CSS selector for each image to the collective image rule set */
 
+/* ADD .image-number FOR EACH IMAGE OR ELSE IT WILL BREAK THIS IS VERY VERY VERY IMPORTANT */
 .main-message,
 .image-one,
-.image-two {
+.image-two,
+.image-three {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -181,7 +182,7 @@ li.nav a:hover {
   background-size: cover;
   min-height: 100%; /* This adjusts the height of the image */
 
-  /* TODO: Add the property to create the parallax scrolling effect here */
+  /*Parallax scroll */
   background-attachment: fixed;
 }
 
@@ -204,17 +205,13 @@ li.nav a:hover {
   background-image: url(https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FU0RQAo7.gif?v=1594957217748);
 }
 
-/* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
-
-/* TODO: Add more background images by repeating the process above */
-
-/*-----------IMAGE ATTRIBUTIONS (if required)-----------*/
+/*-----------IMAGE ATTRIBUTIONS ----------*/
 .attributions {
   font-size: 12px;
   text-align: right;
   margin-right: 10px;
 }
-
+/*-----------LINKS (for learn more page) ----------*/
 .links {
   letter-spacing: 3px;
   font-size: 25px;
