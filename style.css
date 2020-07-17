@@ -198,9 +198,7 @@ li.nav a:hover {
   background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fceac3ea6-titi.jpg?v=1594828972988");
 }
 
-.lm-one {
-  background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FDNst.txt?v=1594956663542");
-}
+.image-three {background-image: url(https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FU0RQAo7.gif?v=1594957217748);}
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
 /* TODO: Add more background images by repeating the process above */
