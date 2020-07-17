@@ -185,20 +185,25 @@ li.nav a:hover {
   background-attachment: fixed;
 }
 
-/* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
+/* HEADER - Deforestation pic */
 .main-message {
   background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fdeforestation.jpg?v=1594827595698");
 }
 
-/* TODO: Replace the current image URL with your own */
+/* Cattle Ranching Pic*/
 .image-one {
   background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FW3T22W-Beef-farming-in-Brazil-2-1440x720.jpg?v=1594924258302");
 }
+/* Monkey pic */
 .image-two {
   background-image: url("https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2Fceac3ea6-titi.jpg?v=1594828972988");
 }
 
-.image-three {background-image: url(https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FU0RQAo7.gif?v=1594957217748);}
+/*Globe gif*/
+.image-three {
+  background-image: url(https://cdn.glitch.com/8fe843bd-9244-4a62-abd1-e9eb99df4ac8%2FU0RQAo7.gif?v=1594957217748);
+}
+
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
 /* TODO: Add more background images by repeating the process above */
